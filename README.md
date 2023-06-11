@@ -5,3 +5,4 @@ This repository contains Responsive Web Design projects from Free Code Camp.
 Projects:
 
 1. Coffee Menu: Contains an HTML page with a structure for a coffee menu and CSS page used to style the menu
+2. Colored Markers: Contains an HTML page with a structure for three markers (red, green, blue) and CSS page to style the markers, using different color functions in CSS.
